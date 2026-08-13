@@ -13,7 +13,6 @@ default.properties
 .gitmodules
 /.project
 /.pydevproject
-/.vscode
 .DS_Store
 *.iml
 *.orig
@@ -101,3 +100,4 @@ docs/superpowers/
 
 # Claude Code
 .claude
+config.bat
